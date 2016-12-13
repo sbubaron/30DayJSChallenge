@@ -25,7 +25,7 @@ app.get('/02clock', function (req, res) {
 })
 
 app.get('/03cssvars', function (req, res) {     
-    res.render('03clock.ejs')
+    res.render('03cssvars.ejs')
 })
 
 app.get('/04arrays', function (req, res) {     
